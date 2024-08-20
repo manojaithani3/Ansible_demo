@@ -1,1 +1,5 @@
 Ansible is an open source IT automation Tool
+Ansible use push base machanism to deploy changes
+Ansible is agentless
+Ansible is accquired by redhat
+Ansible tower is GUI base IT automation tool 
